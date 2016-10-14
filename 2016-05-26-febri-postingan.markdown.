@@ -15,4 +15,12 @@ layout: default
 
   {% include disqus.html %}
 </article>
+<html>
+  <head></head>
+    <title></title>
+  <body>
+    <h1><center>wisata argamakmur</center></h1>
+  </body>
+</html>
+   
 
